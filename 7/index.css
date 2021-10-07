@@ -1,0 +1,30 @@
+.box {
+    width: 200px;
+    height: 200px;
+    padding:30;
+    background-color:royalblue;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    padding: 30;
+    background-color:darkolivegreen;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    padding: 30;
+    background-color:fuchsia;
+}
+.box4 {
+    width: 200px;
+    height: 200px;
+    padding: 30;
+    background-color:rosybrown;
+}
+.box5 {
+    width: 200px;
+    height: 200px;
+    margin: -120px;;
+    background-color:teal;
+    }
