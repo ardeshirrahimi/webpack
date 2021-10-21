@@ -1,0 +1,42 @@
+
+.box1 {
+   background-color:fuchsia;
+   width: 550px;
+   height:550px;
+   border-radius: 100%;
+
+}
+.box2 {
+   background-color: transparent;
+   width: 150px;
+   height: 150px;
+   border-radius: 100%;
+   border: 10px solid teal;
+   margin: 70px 20px;
+
+}
+.box3 {
+   background-color: transparent;
+   width: 150px;
+   height: 150px;
+   border-radius: 100%;
+   border: 10px solid teal;
+   margin: -10px 100px;
+}
+.box4 {
+   background-color: transparent;
+   width: 150px;
+   height: 150px;
+   border-radius: 100%;
+   border: 10px solid teal;
+   margin: -10px 100px;
+}
+.box5 {
+   background-color: transparent;
+   width: 150px;
+   height: 150px;
+   border-radius: 100%;
+   border: 10px solid teal;
+   margin: -10px 100px;
+}
+        

@@ -1,0 +1,14 @@
+.box {
+    width:100px;
+    height:100px;
+    background-color:teal;
+    padding:5px;
+    margin-top: 20px;
+    margin-left:20px;
+    border-radius:100px;
+    box-shadow: 2px 2px 5px 4px black;
+}
+.shadow {
+    text-shadow: 2px 2px 0 black;
+
+}
